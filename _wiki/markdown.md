@@ -20,14 +20,14 @@ mindmap: true
 ### 超链接
 
 ```
-[靠谱-ing](https://mazhuang.org)
+[靠谱-ing](https://feieryun.cn)
 
-<https://mazhuang.org>
+<https://feieryun.cn>
 ```
 
-[靠谱-ing](https://mazhuang.org)  
+[靠谱-ing](https://feieryun.cn)  
 
-<https://mazhuang.org>
+<https://feieryun.cn>
 
 ### 列表
 
