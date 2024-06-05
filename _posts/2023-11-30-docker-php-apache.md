@@ -93,8 +93,8 @@ service apache2 reload
     ErrorLog ${APACHE_LOG_DIR}/error.log
     CustomLog ${APACHE_LOG_DIR}/access.log combined
     SSLEngine on
-    SSLCertificateFile "/root/ssl/joxqyd.feieryun.cn_bundle.crt"
-    SSLCertificateKeyFile "/root/ssl/joxqyd.feieryun.cn.key"
+    SSLCertificateFile "/root/ssl/joxqyd.www.feieryun.com_bundle.crt"
+    SSLCertificateKeyFile "/root/ssl/joxqyd.www.feieryun.com.key"
     <Directory />
         Options Indexes FollowSymLinks
         AllowOverride All

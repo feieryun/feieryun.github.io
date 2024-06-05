@@ -1,5 +1,5 @@
 // https://github.com/ghiculescu/jekyll-table-of-contents
-// Updated by https://feieryun.cn
+// Updated by https://www.feieryun.com
 (function($){
   $.fn.toc = function(options) {
     var defaults = {

@@ -20,14 +20,14 @@ mindmap: true
 ### 超链接
 
 ```
-[靠谱-ing](https://feieryun.cn)
+[靠谱-ing](https://www.feieryun.com)
 
-<https://feieryun.cn>
+<https://www.feieryun.com>
 ```
 
-[靠谱-ing](https://feieryun.cn)  
+[靠谱-ing](https://www.feieryun.com)  
 
-<https://feieryun.cn>
+<https://www.feieryun.com>
 
 ### 列表
 

@@ -7,7 +7,7 @@ description: 最好用的 Java IDE
 keywords: IDEA, Java
 ---
 
-快捷键基本与 [Android Studio](https://feieryun.cn/wiki/android-studio/) 一致，这里重点记录解决遇到过的问题。
+快捷键基本与 [Android Studio](https://www.feieryun.com/wiki/android-studio/) 一致，这里重点记录解决遇到过的问题。
 
 ## Q&A
 
